@@ -19,7 +19,7 @@ Usage:
 ---
 
 *  Write your python code in sublime text.
-*  Save the file as problem-name.py where problem name comes from the url: https://www.hackerrank.com/challenges/<problem-name>.
+*  Save the file as problem-name.py where problem name comes from the url: https://www.hackerrank.com/challenges/problem-name.
 *  Open sublime console by pressing Ctrl + `.
 *  Right click and select the option HackerRank Run.
 *  The result will be displayed in the sublime console.
