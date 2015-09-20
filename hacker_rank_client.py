@@ -3,7 +3,6 @@ import os
 import sys
 import itertools
 
-sys.path.append(os.path.join(os.path.dirname(__file__), "lxml-3.4.4"))
 sys.path.append(os.path.join(os.path.dirname(__file__), "requests-2.7.0"))
 import requests
 
